@@ -175,4 +175,5 @@ If you get totally stuck, solutions from other students are listed below.  I'd e
 * [Nikhil Surana' solution](https://github.com/NikhilSurana/Etch-A-Sketch) | [View in browser](https://htmlpreview.github.io/?https://github.com/NikhilSurana/Etch-A-Sketch/blob/master/Etch-A-Sketch.html)
 * [AtActionPark's solution](https://github.com/AtActionPark/odin-etch-a-sketch) | [View in browser](http://htmlpreview.github.io/?https://github.com/AtActionPark/odin-etch-a-sketch/blob/master/index.html)
 * [Pugsiman's solution](https://github.com/pugsiman/OdinProject---Kitty-Sketch/blob/master/jQuery%20Grid%20Generator.html)
+* [Nick Foster's solution](https://github.com/NickFS/Project_Odin_Sketch-)
 * Add your solution above this line!
